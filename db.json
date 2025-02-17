@@ -2,11 +2,11 @@
   "trips": [
     {
       "id": 1,
-      "destination": "París"
+      "location": "París"
     },
     {
       "id": 2,
-      "destination": "Dubai"
+      "location": "Dubai"
     }
   ]
 }
